@@ -10,7 +10,6 @@
 
 [🔗 جرّب التطبيق الآن](https://antonious-sameh.github.io/crud-product-management-app/)
 
-> ✳️ استبدل `your-username` باسم حسابك على GitHub
 
 ---
 
@@ -23,5 +22,5 @@
 ## 🛠️ التقنيات المستخدمة
 
 - ✅ HTML5
-- ✅ CSS3 (تصميم عصري Responsive)
-- ✅ JavaScript (مع LocalStorage)
+- ✅ CSS3 ( Responsive تصميم عصري )
+- ✅ JavaScript ( LocalStorage مع)
